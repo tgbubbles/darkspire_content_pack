@@ -1,0 +1,6 @@
+"vertexlitgeneric"
+{
+	"$basetexture" models\darkmode\oot\hair
+	"$surfaceprop" "flesh"									// Boost for ambient cube component of rim lighting
+}									
+

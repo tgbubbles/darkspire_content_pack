@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/theboys/homelander/Homelander_Albedo"
+	"$bumpmap" "models/theboys/homelander/Homelander_Normal"
+
+	"$phong" 1
+}

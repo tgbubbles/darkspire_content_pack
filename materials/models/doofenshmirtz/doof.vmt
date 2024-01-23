@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/doofenshmirtz/doof"
+	"$nocull" 1
+}

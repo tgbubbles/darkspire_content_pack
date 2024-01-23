@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" models\darkmode\oot\invisible
+	"$surfaceprop" "flesh"
+	"$alphatest" 1
+	"$alpha" 0
+}

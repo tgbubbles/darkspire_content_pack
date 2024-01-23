@@ -1,0 +1,12 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\suit_jfk\c_gen_arm_clean_c"
+	"$bumpmap" "models\suit_jfk\c_gen_arm_clean_n"
+
+ 	"$phong" "1"
+	"$phongexponent" "8"
+	"$phongboost" "3"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+
+}

@@ -1,0 +1,13 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/deltarune/tasque_manager/tasque_d"
+
+                $emissiveblendenabled		"1"
+	$emissiveblendstrength		"1"
+	$emissiveblendtexture		"vgui/white"
+	$emissiveblendbasetexture	"models/Deltarune/Tasque_Manager/tasque_e"
+	$emissiveblendflowtexture	"vgui/white"
+	$emissiveblendtint			"[1 1 1]"
+	$emissiveblendscrollvector	"[0 0 0]"
+
+}

@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "minson97\bo2\menendez\c_mul_menendez2025_head_c"
+	"$bumpmap" "minson97\bo2\menendez\c_mul_menendez2025_head_n"
+$halflambert 1
+$phong 1
+$phongboost ".9"
+$phongexponent 8
+$phongtint "[3 2 1.3]"
+$phongfresnelranges "[.3 .65 6]"
+$ambientocclusion 1
+
+
+}

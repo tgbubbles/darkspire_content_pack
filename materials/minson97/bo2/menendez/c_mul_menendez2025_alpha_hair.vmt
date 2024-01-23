@@ -1,0 +1,11 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "minson97\bo2\menendez\c_mul_menendez2025_alpha_hair"
+$halflambert 1
+
+$ambientocclusion 1
+$nocull 1
+$translucent 1
+//$alphatest 1
+
+}

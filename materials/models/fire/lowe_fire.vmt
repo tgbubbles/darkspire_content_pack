@@ -1,0 +1,14 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models\fire\lowe_fire"
+	"$bumpmap" "models\fire\lowe_fire_normal"
+	"$halflambert" "1"
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongalbedotint" "1"
+	"$phongboost" ".005"
+	"$phongfresnelranges"	"[1 1 3]"
+//	$nocull 1
+
+}

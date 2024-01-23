@@ -1,0 +1,16 @@
+"EyeRefract"
+{
+"$iris"               "models/payday2/units/la_cops/eyeball2"
+"$AmbientOcclTexture" "models/payday2/units/la_cops/pupil_ambient" 
+"$CorneaTexture"      "models/payday2/units/la_cops/nothing_eye" 
+"$Envmap"             "models/payday2/units/la_cops/eye-reflection-cubemap"
+
+"$AmbientOcclColor"   "[.5 .5 .5]"
+"$Dilation"           ".5"   
+"$ParallaxStrength"   ".12" 
+"$CorneaBumpStrength" "0.0"
+"$halflambert"        "1"
+"$nodecal"            "1"
+"$RaytraceSphere"     "0"
+"$SphereTexkillCombo" "0"
+}

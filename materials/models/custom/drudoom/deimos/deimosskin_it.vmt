@@ -1,0 +1,9 @@
+patch
+{
+	include "materials\models/survivors/survivors_it_shared.vmt"
+	insert
+	{
+		"$basetexture" "models\custom\drudoom\deimos\deimosskin"
+		"$bumpmap" "models\custom\drudoom\deimos\flatmap_deimos"
+	}
+}

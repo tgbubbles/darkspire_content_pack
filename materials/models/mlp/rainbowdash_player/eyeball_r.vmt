@@ -1,0 +1,6 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/mlp/rainbowdash_player/pupil"
+	"$halflambert" "1"
+	"$lightwarptexture" "models/mlp/common_player/lightwarp"
+}

@@ -1,0 +1,15 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/Hands_Simon_Henriksson/glove"
+	"$bumpmap" "models/player/Hands_Simon_Henriksson/glove_normal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapsaturation" .5
+	"$model" 1
+	"$phong" "1"
+	"$phongexponent" "35"
+	"$phongboost" "0.3"
+	"$phongfresnelranges"	"[0.4 0.9 2.6]"
+	"$phongalbedotint" "1"
+}

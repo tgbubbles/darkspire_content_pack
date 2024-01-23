@@ -1,0 +1,7 @@
+"vertexlitgeneric"
+{
+	"$basetexture" models\darkmode\oot\tunic
+	"$surfaceprop" "flesh"
+	"$nocull" 1							// Boost for ambient cube component of rim lighting
+}									
+

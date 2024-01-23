@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/inj2_hellboy/HB_A_CigaretteLit_A"
+	"$bumpmap" "models/krypto/inj2_hellboy/HB_A_Cigarette_N"
+}

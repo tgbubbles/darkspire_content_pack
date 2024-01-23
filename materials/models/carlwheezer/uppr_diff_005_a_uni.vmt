@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/carlwheezer/uppr_diff_005_a_uni"
+	$bumpmap "models/carlwheezer/uppr_nrm"
+}

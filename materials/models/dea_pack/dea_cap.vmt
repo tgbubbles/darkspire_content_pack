@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dea_pack/dea_cap"
+	"$bumpmap" "models/dea_pack/dea_cap_normal"
+}

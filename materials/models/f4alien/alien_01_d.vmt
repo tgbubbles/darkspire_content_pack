@@ -1,0 +1,17 @@
+vertexlitgeneric
+{
+$baseTexture "models\f4alien\Alien_01_D"
+$bumpmap "models\f4alien\Alien_01_N"
+$phong 1
+$phongboost ".5"
+$phongexponent 5
+$phongtint "[.85 .85 1]"
+$halflambert 0
+$ambientocclusion 1
+$ambientoccltexture "models/f4alien/Alien_01_S2"
+$phongfresnelranges "[.3 .65 30]"
+
+
+
+$diffuseexp "1.5"
+}

@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/payday2/units/la_cops/head_01_df"
+	"$bumpmap"	"models/payday2/units/la_cops/head_01_nm"
+
+	"$phong"	"1"
+	"$phongexponenttexture"	"models/payday2/units/la_cops/head_01_sp"
+	"$phongboost"	0.1
+	"$phongfresnelranges"	"[0.5 0.5 0.5]"
+}

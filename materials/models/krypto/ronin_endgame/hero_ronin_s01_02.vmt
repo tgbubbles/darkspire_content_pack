@@ -1,0 +1,21 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/ronin_endgame/hero_ronin_s01_02"
+	"$bumpmap" "models/krypto/ronin_endgame/n2"
+                "$phongexponenttexture" "models/krypto/ronin_endgame/hero_ronin_s01_02_sp"
+
+"$phong" "1"
+"$phongboost" ".1"
+"$phongfresnelranges" "[0.15 0.5 1]"
+
+"$color2" "[0.9 0.9 0.9]"
+"$detail" "models/krypto/ronin_endgame/hero_ronin_s01_02_sp"
+"$detailscale" "1"	
+"$detailblendmode" "0"
+"$detailblendfactor" "0.4"
+
+"$model" "1"
+"$ambientocclusion" "1"
+"$ambientoccltexture" "models/krypto/ronin_endgame/hero_ronin_s01_02_sp"
+"$ambientocclusiontexture" "models/krypto/ronin_endgame/hero_ronin_s01_02_sp"
+}

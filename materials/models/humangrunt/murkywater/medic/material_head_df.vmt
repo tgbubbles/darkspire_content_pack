@@ -1,0 +1,10 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/humangrunt/murkywater/medic/material_head_df"
+	"$bumpmap"	"models/humangrunt/murkywater/medic/material_head_nm"
+
+	"$phong"	"1"
+	"$phongexponent"	"120"
+	"$phongboost"	1
+	"$phongfresnelranges"	"[0.1 0.1 0.1]"
+}

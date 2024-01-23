@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/dea_pack/dea_trousers"
+	"$bumpmap" "models/dea_pack/dea_trousers_normal"
+}

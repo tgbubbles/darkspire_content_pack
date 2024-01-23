@@ -1,0 +1,5 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/krypto/jordan/greenlantern_DF_SPC"
+	"$bumpmap" "models/krypto/jordan/greenlantern_NRM"
+}

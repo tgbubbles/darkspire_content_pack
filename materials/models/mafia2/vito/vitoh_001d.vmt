@@ -1,0 +1,13 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models\mafia2/vito/VITOH_001d"
+	"$bumpmap" "models\mafia2/vito/VITOH_001n"
+$translucent 1
+$phong 1
+$nocull 1
+$phongboost .6
+$phongexponent 8
+$phongtint "[1 1 1.13]"
+$halflambert 0
+$phongfresnelranges "[1 1 5]"
+}

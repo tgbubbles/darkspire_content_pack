@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture"	"models/payday2/units/zeal/ene_zeal_swat_df"
+	"$bumpmap"	"models/payday2/units/zeal/ene_zeal_swat_nm"
+	"$detail"	"models/payday2/units/zeal/ene_zeal_swat_sp"
+	
+	"$detailscale" 	"1"
+	"$detailblendfactor"	"0.4"
+	"$detailblendmode"	"0"
+
+	"$phong"	"1"
+	"$phongexponent"	"40"
+	"$phongboost"	1
+	"$phongfresnelranges"	"[0.5 0.5 1]"
+}

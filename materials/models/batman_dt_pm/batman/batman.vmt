@@ -1,0 +1,5 @@
+"VertexLitGeneric"
+{
+"$basetexture" "models\batman_dt_pm\Batman\Batman"
+ $nocull 1
+}

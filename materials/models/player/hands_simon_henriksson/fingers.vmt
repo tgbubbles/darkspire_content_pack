@@ -1,0 +1,22 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "models/player/Hands_Simon_Henriksson/fingers"
+	"$bumpmap" "models/player/Hands_Simon_Henriksson/fingers_normal"
+	"$envmap" "env_cubemap"
+	"$basealphaenvmapmask" 1
+	"$envmaptint" "[.1 .1 .1]"
+	"$envmapsaturation" .5
+	"$model" 1
+
+	"$phong" "1"
+	"$phongexponent" "10"
+	"$phongboost" "1.5"
+	"$phongfresnelranges" "[0.1 0.4 0.9]"
+	
+	"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0.05"
+	
+	"$rimlight" "1"
+	"$rimlightboost" "0.25"
+	"$rimlightexponent" "25"
+}

@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\ultron/Ultron_Eyes"
+	"$iris" "models\ultron/Ultron_Pupil"
+	"$halflambert" 1
+}

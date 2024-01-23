@@ -1,0 +1,10 @@
+"VertexLitGeneric"
+{
+	"$baseTexture" "minson97\bo2\menendez\c_gen_insidemouth_c"
+	"$bumpmap" "minson97\bo2\menendez\c_gen_insidemouth_n"
+$halflambert 1
+
+$ambientocclusion 1
+
+
+}

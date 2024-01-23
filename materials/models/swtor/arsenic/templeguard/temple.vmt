@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/swtor/arsenic/templeguard/temple"
+	"$bumpmap" "models/swtor/arsenic/templeguard/temple_n"
+	"$normalmap" "models/swtor/arsenic/templeguard/temple_n"
+}

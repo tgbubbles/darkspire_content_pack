@@ -1,0 +1,7 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/catwoman/eyelashes_alpha"
+	"$alphatest" 1
+	"$nocull" 1
+	"$nodecal" 1
+}

@@ -1,0 +1,11 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/kaesar/blackpanther/hero_blackpanther_S02_02"
+	"$bumpmap" "models/kaesar/blackpanther/nm2"
+	"$phong" "1"
+	"$phongboost" "20"
+//	"$phongexponent" "5"
+	"$phongalbedotint" "5"
+	"$phongfresnelranges" "[.5 .5 .5]"
+	"$model" "1"
+}

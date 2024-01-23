@@ -1,0 +1,10 @@
+"eyes"
+{
+	"$basetexture" "models/vinrax/tenchu/eyeball"
+	"$iris" "models/vinrax/tenchu/eyeball"
+	"$halflambert" 1
+	"$nodecal" "1"
+}
+
+
+

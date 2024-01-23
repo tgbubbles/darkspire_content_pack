@@ -1,0 +1,7 @@
+"VertexLitGeneric"
+{
+	// Original shader: VertexLitTexture
+	"$basetexture" "models\fire/erdim_cylmap"
+	"$bumpmap" "models\fire/normalmap_flat"
+	"$halflambert" 1
+}

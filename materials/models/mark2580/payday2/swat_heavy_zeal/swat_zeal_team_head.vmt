@@ -1,0 +1,19 @@
+"VertexLitGeneric"
+{
+	"$basetexture"         "models/mark2580/Payday2/swat_heavy_zeal/swat_zeal_team_head"
+	"$bumpmap"             "models/mark2580/Payday2/swat_heavy_zeal/swat_zeal_team_head_n"
+
+	"$phong"               "1"
+	"$phongboost"	       "0.5"
+	"$phongexponent"       "50"
+	"$phongfresnelranges"  "[.1 .1 .1]"
+
+//	"$lightwarptexture"	"models/mark2580/Payday2/swat_heavy_zeal/lightwarp_metallic" 
+
+    "$normalmapalphaenvmapmask"    "1"
+	
+	"$detail"             "models/mark2580/Payday2/swat_heavy_zeal/detail_leather_01"
+	"$detailscale"        "25"
+	"$detailblendfactor"  "0.5"
+	"$detailblendmode"    "0"
+}

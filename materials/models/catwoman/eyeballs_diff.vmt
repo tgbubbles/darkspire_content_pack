@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/catwoman/eyeballs_diff"
+	"$nocull" 1
+	"$nodecal" 1
+}

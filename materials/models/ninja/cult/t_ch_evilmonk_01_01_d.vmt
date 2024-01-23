@@ -1,0 +1,20 @@
+"VertexLitGeneric"
+{
+	"$basetexture" "models/ninja/cult/t_ch_EvilMonk_01_01_d"
+	"$bumpmap" "models/ninja/cult/t_ch_EvilMonk_01_01_n"
+	"$model" "1"
+	"$nodecal" "1"
+	"$multipass" 0
+
+	"$envmap" "env_cubemap"
+	"$normalmapalphaenvmapmask" "1"
+	"$envmaptint" "[.15 .15 .15]"
+
+	"$phong" "1"
+	"$phongexponent" "30"
+	"$phongboost" "1.5"
+	"$phongfresnelranges"	"[0.4 0.9 2.6]"
+	"$phongalbedotint" "1"
+	"$alphatest" "1"
+	"$nocull" "1"
+}

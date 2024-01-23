@@ -1,0 +1,5 @@
+VertexLitGeneric
+{
+	$basetexture "models/carlwheezer/feet_diff_016_f_uni"
+	$bumpmap "models/carlwheezer/feet_normal_016"
+}

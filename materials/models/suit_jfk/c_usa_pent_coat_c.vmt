@@ -1,0 +1,16 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\suit_jfk\c_usa_pent_coat_c"
+	"$bumpmap" "models\suit_jfk\c_usa_pent_coat_n"
+
+ 	"$phong" "1"
+	"$phongexponent" "5"
+	"$phongboost" ".2"	
+	"$phongfresnelranges"	"[.1 0.2 1]"
+	"$halflambert" "1"
+
+	"$rimlight" "1"										
+	"$rimlightexponent" ""							
+	"$rimlightboost" "0.1"
+
+}

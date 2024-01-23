@@ -1,0 +1,17 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/vinrax/tenchu/zakonin_kimono_02"
+	"$bumpmap" "models/vinrax/tenchu/zakonin_kimono_02_nrm"
+	"$bumpmap2" "models/vinrax/tenchu/bump1"
+	"$nocull" 1
+"$blendtintbybasealpha" "1" 
+ 	"$blendtintcoloroverbase" "0"
+Proxies
+	{
+		PlayerColor
+		{
+			resultVar	$color2
+			default		0.53 0.46 0.39
+		}
+	}
+}

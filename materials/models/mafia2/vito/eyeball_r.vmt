@@ -1,0 +1,6 @@
+"eyes"
+{
+	"$basetexture" "models\mafia2/vito/vitoh_d"
+	"$iris" "models\mafia2/vito/pupil"
+	"$halflambert" 1
+}

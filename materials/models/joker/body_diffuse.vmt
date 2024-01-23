@@ -1,0 +1,6 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/joker/Body_Diffuse"
+	"$alphatest" 1
+	"$nocull" 1
+}

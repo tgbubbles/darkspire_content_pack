@@ -1,0 +1,5 @@
+"UnlitGeneric"
+{
+	"$basetexture" "vgui/entities/pd2_zeal_heavy_swat_rebel"
+	"$nolod" 1
+}

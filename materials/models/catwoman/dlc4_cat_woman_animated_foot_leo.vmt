@@ -1,0 +1,14 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models/catwoman/DLC4_Cat_woman_animated_Foot_leo"
+	"$bumpmap" "models/catwoman/DLC4_Cat_woman_animated_Foot_N"
+	"$nocull" 1
+	"$nodecal" 1
+	"$phongexponent" "20"
+                 "$phong" "1" 
+                 "$phongboost" ".15"
+                 "$phongfresnelranges" "[.3 .3 .3 ]"     
+                 "$rimlight" "1" 
+                 "$rimlightexponent" "2" 
+                 "$rimlightboost" "1"
+}

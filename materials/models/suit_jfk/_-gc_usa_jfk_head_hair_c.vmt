@@ -1,0 +1,15 @@
+"VertexlitGeneric"
+{
+	"$basetexture" "models\suit_jfk\_-gc_usa_jfk_head_hair_c"
+	"$bumpmap" "models\suit_jfk\c_usa_jfk_head_hair_n"
+	$translucent 1
+	$phong	0
+	$phongexponent	7
+	$phongboost	1
+	$phongfresnelranges	[.05 .025 1]
+	$halflambert	1
+
+	$rimlight	1
+	$rimlightboost	.8
+
+}
