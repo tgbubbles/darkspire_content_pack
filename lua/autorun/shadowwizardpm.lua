@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Shadow Wizard", "models/player/Aceman3000/shadowwizardp/shadowwizardp.mdl" );
+player_manager.AddValidHands( "Shadow Wizard", "models/player/Aceman3000/shadowwizardp/shadowwizardarms.mdl", 0, "00000000" )

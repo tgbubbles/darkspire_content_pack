@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Nightwing",                     "models/player/bobert/nightwing.mdl" )  list.Set( "PlayerOptionsModel",  "Nightwing",                     "models/player/bobert/nightwing.mdl" ) 

@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Colorable Hazmat",                     "models/player/Hazmat/colorable_hazmat.mdl" )
+list.Set( "PlayerOptionsModel",  "Colorable Hazmat",                     "models/player/Hazmat/colorable_hazmat.mdl" ) 

@@ -1,0 +1,2 @@
+list.Set( "PlayerOptionsModel", "Mafia II - Vito Scalettuce", "models/player/MafiaII_VitoScalettuce_PM.mdl" )
+player_manager.AddValidModel( "Mafia II - Vito Scalettuce", "models/player/MafiaII_VitoScalettuce_PM.mdl" )

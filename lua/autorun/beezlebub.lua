@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "Beelzebub - Helluva Boss", "models/alvaroports/queenbeelzebub_pm.mdl" )
+player_manager.AddValidHands( "Beelzebub - Helluva Boss", "models/alvaroports/queenbeelzebub_vm.mdl", 0, "0000000" )

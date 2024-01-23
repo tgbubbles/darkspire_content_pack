@@ -1,0 +1,2 @@
+player_manager.AddValidModel( "[K] Endgame: Ronin", "models/kryptonite/ronin_endgame/ronin_endgame.mdl" ) 
+list.Set( "PlayerOptionsModel",  "[K] Endgame: Ronin", "models/kryptonite/ronin_endgame/ronin_endgame.mdl" ) 

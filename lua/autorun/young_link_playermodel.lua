@@ -1,0 +1,3 @@
+player_manager.AddValidModel( "Young Link", "models/darkmode/young_link_playermodel.mdl" );								-- Replace the word template with the name that you want to appear in the spawnmenu and playermodel selector
+list.Set( "PlayerOptionsModel", "Young Link", "models/darkmode/young_link_playermodel.mdl" );							-- Replace the word template with the name that you want to appear in the spawnmenu and playermodel selector
+player_manager.AddValidHands( "Young Link", "models/darkmode/young_link_arms.mdl", 0, "00000000" )			-- Replace the word template with the name that you want to appear in the spawnmenu and playermodel selector

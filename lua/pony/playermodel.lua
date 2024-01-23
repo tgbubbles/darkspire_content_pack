@@ -1,0 +1,1 @@
+player_manager.AddValidModel( "Rainbow Dash", "models/rainbowdash_player.mdl" )
